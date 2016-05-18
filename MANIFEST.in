@@ -1,0 +1,1 @@
+include fb2utils/*.py fb2utils/fb221schema/* unidecode/*.py unidecode/README MANIFEST.in COPYING README.ru
