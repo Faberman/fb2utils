@@ -1,5 +1,5 @@
 # fb2utils
-## github local copy
+## github copy
 
 Because the [homepage](http://code.google.com/p/fb2utils/) is unavailable anymore.
 
@@ -12,5 +12,5 @@ The code requires [lxml](http://lxml.de/installation.html).
 
 Common `python2 ./setup.py build && python2 ./setup.py install` will do the job.
 
-But, you have to install [lxml](http://lxml.de/installation.html) -- read that page carefully!
-If you use [brew](http://brew.sh/), then you may pefer usage of `pip install`.
+But you have to install [lxml](http://lxml.de/installation.html) -- read that page carefully!
+If you use [brew](http://brew.sh/), then you may have to choose `pip install`.
